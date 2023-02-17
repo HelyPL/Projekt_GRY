@@ -5,7 +5,7 @@
 ### NPC
 # No to są boty one są wolne ale szybkie ale okej
 ---
-### Friz 
+### Friz
 # Friz jest bardzo bogaty bo wywalił ziomka za hajs
 ---
 ### Złodziej 
@@ -14,3 +14,6 @@
 ### Sensej Wu
 # Jest wolny ale leci 1000000000000000000000000000 km\s
 ---
+
+Jan Pawel 2
+
